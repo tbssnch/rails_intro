@@ -60,3 +60,4 @@ RSpec.configure do |config|
     with.library :rails
   end
 end
+end
